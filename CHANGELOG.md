@@ -51,7 +51,7 @@
 
 ### Bug Fixes
 
--   Add logging for interview https://github.com/nurikk/zigbee2mqtt-frontend/pull/2027 ([6924db7](https://github.com/Koenkk/zigbee2mqtt/commit/6924db79e8263804b468cc5ff84316a336256bdf))
+-   Add logging for interview https://github.com/nghiant/connect-air-frontend/pull/2027 ([6924db7](https://github.com/Koenkk/zigbee2mqtt/commit/6924db79e8263804b468cc5ff84316a336256bdf))
 -   Availability code optimization/formatting ([#23065](https://github.com/Koenkk/zigbee2mqtt/issues/23065)) ([f574653](https://github.com/Koenkk/zigbee2mqtt/commit/f57465324a2517ceb5581db389dda92d40fc0000))
 -   Bind code optimisation/formatting ([#23110](https://github.com/Koenkk/zigbee2mqtt/issues/23110)) ([3d772b5](https://github.com/Koenkk/zigbee2mqtt/commit/3d772b5db33ba653f763420f067b90d1cfc16cd8))
 -   Differentiate the MQTT publish/ received from regular MQTT logs ([#23026](https://github.com/Koenkk/zigbee2mqtt/issues/23026)) ([eff341b](https://github.com/Koenkk/zigbee2mqtt/commit/eff341bd141bd99121a8208c5f9cb735686a3faf))
